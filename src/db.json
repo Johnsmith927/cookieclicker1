@@ -1,0 +1,6 @@
+{
+  "codes": [
+    { "code": "ABC123", "used": false, "fingerprint": null },
+    { "code": "XYZ789", "used": false, "fingerprint": null }
+  ]
+}

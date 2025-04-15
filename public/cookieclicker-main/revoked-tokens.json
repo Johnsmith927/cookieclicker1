@@ -1,0 +1,13 @@
+{
+  "revoked": [
+    "abc123",
+    "ABC123",
+    "xyz456",
+    "XYZ789",
+    "aa",
+    "test",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaW5nZXJwcmludCI6IjczOWZmNzkwYTRiNjNmNDhhMjQ2MzBiMjM3M2Y5YTAzIiwiaWF0IjoxNzQ0NjA0Njk0LCJleHAiOjE3NDcxOTY2OTR9.9H5hB2xrBu0lcs8-Y73IaKfByXNvLtNk8_0bGExh2B0",
+    "somethingelse",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaW5nZXJwcmludCI6IjczOWZmNzkwYTRiNjNmNDhhMjQ2MzBiMjM3M2Y5YTAzIiwiaWF0IjoxNzQ0NjA0NDIzLCJleHAiOjE3NDcxOTY0MjN9.TXE5vv7MDFWALPRTPr1ANpimSn_dat0Ix5jftXNSQl8"
+  ]
+}
